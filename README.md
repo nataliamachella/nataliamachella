@@ -6,7 +6,7 @@
     height="260"
     border-radius="30px"
   />
-  <h3> 👩‍💻 I am Natalia, a passionate web fullstack developer from Argentina 🇦🇷 </h3>
+  <h3> 👩‍💻 I am Natalia, software developer from Argentina 🇦🇷 </h3>
 </div>
 
 ---
