@@ -6,15 +6,15 @@
     height="260"
     border-radius="30px"
   />
-  <h3> 👩‍💻 I am Natalia, software developer from Argentina 🇦🇷 </h3>
+  <h3> 👩‍💻 I am Natalia, web developer from Argentina 🇦🇷 </h3>
 </div>
 
 ---
 
- 🟣 About Me : 
+ 🟣 Info : 
  <ul>
   
-  <li> 🌱 I’m currently learning **Next.js and Chakra UI**</li>
+  
   <li> 📬 How to reach me <a href="nataliamachella@gmail.com" target="_blank">nataliamachella@gmail.com</a> </li>
   <li> 🌐 Website <a href="natalia.net" target="_blank">natalia.net</a> </li>
   <li>   My LinkedIn <a href="www.linkedin.com/in/natalia-machella" target="_blank"> Natalia Machella </a>
